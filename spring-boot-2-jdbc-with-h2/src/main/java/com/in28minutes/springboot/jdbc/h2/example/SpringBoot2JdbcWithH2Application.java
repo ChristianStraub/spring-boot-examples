@@ -21,6 +21,13 @@ public class SpringBoot2JdbcWithH2Application implements CommandLineRunner {
         SpringApplication.run(SpringBoot2JdbcWithH2Application.class, args);
     }
 
+    /**
+     * Diese Methode wird nach dem Start der Anwendung ausgeführt. Sie können es
+     *
+     *
+     *
+     * @param args
+     */
     @Override
     public void run(String... args) {
 
